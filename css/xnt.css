@@ -1,0 +1,134 @@
+.one {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.two {
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  text-shadow: 10px 7px 35px #838b94;
+}
+
+.q{
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 18px 8px 20px rgba(0,0,0,0.2), -8px -8px 20px rgba(255,255,255,1);
+}
+.h{
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 18px 18px 30px rgba(0,0,0,0.1),
+  inset -18px -18px 30px rgba(255,255,255,1);
+  transition: box-shadow .15s ease-out;
+}
+.hz{
+  width: 83px;
+  height: 85px;
+  transition: all .15s ease-out;
+}
+
+.qts{
+  border-radius: 20px;
+  box-shadow: 1.8px 2.1px 6.5px rgba(0,0,0,0.2), -6.1px 2.2px 6.1px rgba(255,255,255,1);
+}
+
+.hts{
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 8px 8px 8.6px rgba(0,0,0,0.1),
+  inset -128px 22px 127.8px rgba(255,255,255,1);
+  transition: all .15s ease-out;
+}
+
+.htsz{
+  transform: scale(0.9,0.9);
+  transition: transform .15s ease-out ;
+}
+
+ .qjt{
+     box-shadow: -2px -2px 7.3px rgba(255,255,255,1), 35px -5px 30px rgba(0,0,0,0.2);
+} 
+
+ .hjt{
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 18px -22px 30px rgba(0,0,0,0.1), 
+  inset -58px 32px 30px rgba(255,255,255,1);
+  transition: box-shadow .15s ease;
+  
+ }
+
+.qnr{
+  border-radius: 20px;
+  box-shadow: 8px 28px 30px rgba(0,0,0,0.2), 4px 4px 30px rgba(255,255,255,1);
+}
+
+.hnr{
+  border-radius: 20px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 18px 18px 30px rgba(0,0,0,0.1),
+  inset -18px -18px 30px rgba(255,255,255,1);
+  transition: box-shadow .15s ease-out;
+}
+
+.qyq{
+  border-radius: 20px;
+  box-shadow: 18px 8px 20px rgba(0,0,0,0.2), -8px -8px 20px rgba(255,255,255,1);
+}
+
+/* .hyq{
+  border-radius: 8px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 8px 8px 8.6px rgba(0,0,0,0.1),
+  inset -128px 22px 127.8px rgba(255,255,255,1);
+} */
+
+.qnrz{
+  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 18px 8px 20px rgba(0,0,0,0.2), -8px -8px 20px rgba(255,255,255,1);
+  transition: box-shadow .15s ease-out;
+}
+
+.hnrz{
+  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 18px 18px 30px rgba(0,0,0,0.1),
+  inset -18px -18px 30px rgba(255,255,255,1);
+  transition: box-shadow .15s ease-out;
+}
+
+.qgb{
+  cursor: pointer;
+  box-shadow: -2px 8px 5.1px rgba(0,0,0,0.2), -8px -8px 130px rgba(255,255,255,0.8);
+}
+
+.qnrxq{
+  box-shadow: -14.6px 12.5px 28.8px rgba(0,0,0,0.2), 12px -12px 90px rgba(255,255,255,0.3);
+}
+
+.hfk{
+  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+  0 0 0 rgba(255,255,255,0.8),
+  inset 18px 18px 30px rgba(0,0,0,0.1),
+  inset -18px -18px 30px rgba(255,255,255,1);
+  transition: box-shadow .15s ease-out;
+}
+
+.ysbl{
+  background-color: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(7.5px);
+  border: 0.8px solid rgba(255, 255, 255, 0.18);
+  box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  border-radius: 1px;
+  -webkit-border-radius: 12px;
+  color: rgba(255, 255, 255, 0.75);
+}
