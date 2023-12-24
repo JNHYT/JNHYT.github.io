@@ -1,0 +1,32 @@
+.ys0{
+  background: linear-gradient(45deg, #212427 0%,#C9D6DF 50%,#F0F5F9 100%);
+}
+
+.ys1{
+  background: linear-gradient(45deg, #006FBE 0%,#E9E9E9 50%,#F5F5F5 100%);
+}
+
+.ys2{
+  background: linear-gradient(45deg, #698A66 0%,#ECD79B 50%,#EEEEEE 100%);
+}
+
+.ys3{
+  background: linear-gradient(44deg, #00668C 0%,#B6CCD9 49%,#FFFEFB 100%);
+}
+
+.beijing0{
+  background-color: #F0F5F9;
+}
+
+.dati0{
+  background-color: #E6EEF0;
+}
+
+.yansebj{
+  transition: all .15s ease;
+}
+
+.yansebj:hover{
+  transform: scale(1.2,1.2);
+  
+}

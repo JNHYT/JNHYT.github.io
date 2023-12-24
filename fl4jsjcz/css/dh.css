@@ -1,0 +1,57 @@
+@keyframes gg {
+   0%{
+      margin-left: 3000px;
+   }
+   100%{
+      margin-left: 0px;
+   }
+ }
+
+/*熊奔跑动画*/
+
+@keyframes bear {
+  0% {
+      background-position: 0 0;
+  }
+  100% {
+      background-position: -1600px 0;
+  }
+}
+
+/*背景山移动动画*/
+
+@keyframes gd {
+  0%{
+     background-position: 0 0;
+  }
+  100%{
+     background-position: -1920px 0;
+  }
+}
+
+/*页面淡入动画*/
+
+@keyframes tr {
+  0%{
+     transform: translate(0,-20px);
+     opacity: 0.1;
+  }
+  100%{
+     transform: translate(0,0);
+     opacity: 1;
+  }
+}
+
+/*页面淡出动画*/
+
+@keyframes tc {
+   0%{
+      transform: translate(0,0px);
+      opacity: 1;
+   }
+   100%{
+      transform: translate(0,-20px);
+      opacity: 0.1;
+   }
+ }
+ 
