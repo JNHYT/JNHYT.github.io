@@ -1,0 +1,39 @@
+.yqys{
+  height: 24px;
+  width: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center; 
+  margin-left: 14px;
+}
+
+.yqys2{
+  height: 24px;
+  width: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center; 
+  margin-left: 14px;
+}
+
+.yqp{
+  margin-left: 10px;
+  font-size: 13px;
+  margin-right: 5px;
+  font-weight: 550;
+}
+
+.yqp2{
+  margin-left: 10px;
+  font-size: 13px;
+  font-weight: 550;
+}
+
+.yqa{
+  transition: all .15s ease;
+}
+
+.yqa:hover{
+  border-radius: 4px;
+  background-color: red;
+}
