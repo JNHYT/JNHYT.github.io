@@ -1,0 +1,15 @@
+.x{
+  display: flex;
+}
+
+.y{
+  display: none;
+}
+
+.x2{
+  visibility: visible;
+}
+
+.y2{
+  visibility: hidden;
+}
