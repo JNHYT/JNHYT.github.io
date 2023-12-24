@@ -1,0 +1,50 @@
+/* 模块 */
+.mklysff{
+       width: 101px;
+       height: 101px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 20px;
+}
+.mklysf{
+       width: 100px;
+       height: 100px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 20px;
+}
+
+.mklys{
+       width: 85px;
+       height: 87px;
+       
+}
+/* 模块提示 */
+.mktsys{
+       width: 130px;
+       height: 28px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       z-index: 1;
+       visibility: hidden;
+}
+/*模块箭头提示*/ 
+.jtysf{
+       height: 70px;
+       width: 70px;
+}
+
+.jtys{
+       height: 69px;
+       width: 69px;
+       transform: translate(1px,41px) rotate(45deg);
+}
+
+.nrysz{
+       height: 600px;
+       margin-left: 20px;
+       margin-right: 20px;
+}
